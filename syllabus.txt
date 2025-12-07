@@ -1,0 +1,37 @@
+Introduction to Computers and its Applications:
+Computer as a system, basic concepts, functional units and their inter relation.
+• Milestones in Hardware and Software.
+• Batch oriented / on-line / real time applications.
+• Application of computers.
+Interacting with the Computer
+
+
+                                     5
+
+Input Devices: Keyboard, mouse, light pen, touch screens, Bar Code reader, joystick, source data
+automation, (MICR, OMR, OCR), screen assisted data entry: portable / handheld terminals for data
+collection.
+
+
+                                     UNIT - II
+Computer Viruses: Definition, Types of viruses, use of Antivirus software.
+Internet basics: Its uses and Applications.
+Output Devices: Monitor, Serial line page printers, plotters, voice response units.
+Word Processor: Overview, creating, saving, opening, importing, exporting and inserting files,
+formatting pages, paragraphs and sections, indents and out dents, creating lists and numbering.
+Headings, styles, fonts and font size, Editing, positioning and viewing texts, Finding and replacing
+text, inserting page breaks, page numbers, book marks, symbols and dates. Using tabs and tables,
+header, footer and printing.
+
+
+                                     UNIT - III
+Data Storage Devices and Media: Primary storage (Storage addresses and capacity, type of
+memory), Secondary storage, Magnetic storage devices and Optical Storage Devices
+Presentation Software: Presentation overview, entering information, Presentation creation, opening
+and saving presentation, inserting audio and video.
+
+
+                                     UNIT - IV
+Spreadsheet: Spreadsheet overview, Editing, Formatting, Creating formulas, Graphs.
+Any Open-Source Software like Apache Open Office, Libre Office, Google Docs or Microsoft Office
+may be used.
