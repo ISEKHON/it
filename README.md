@@ -11,32 +11,32 @@ This repository contains comprehensive study materials for the **BCA Semester I 
 
 | File | Content | Topics Covered |
 |------|---------|----------------|
-| **Unit1_Notes.md** | Unit 1 Complete Notes | Computer fundamentals, Hardware evolution (5 generations), Input devices (Keyboard, Mouse, Barcode, MICR, OMR, OCR) |
-| **Unit2_Notes.md** | Unit 2 Complete Notes | Computer viruses, Antivirus software, Internet basics, Output devices (Printers, Plotters), Word processing (MS Word/Google Docs) |
-| **Unit3_Notes.md** | Unit 3 Complete Notes | Storage devices (RAM, ROM, Cache, HDD, SSD, Optical storage), Presentation software (PowerPoint/LibreOffice Impress) |
-| **Unit4_Notes.md** | Unit 4 Complete Notes | Spreadsheet software (Excel/Calc), Formulas, Functions (SUM, AVERAGE, IF, VLOOKUP, COUNT), Charts and graphs |
+| **[Unit1_Notes.md](Unit1_Notes.md)** | Unit 1 Complete Notes | Computer fundamentals, Hardware evolution (5 generations), Input devices (Keyboard, Mouse, Barcode, MICR, OMR, OCR) |
+| **[Unit2_Notes.md](Unit2_Notes.md)** | Unit 2 Complete Notes | Computer viruses, Antivirus software, Internet basics, Output devices (Printers, Plotters), Word processing (MS Word/Google Docs) |
+| **[Unit3_Notes.md](Unit3_Notes.md)** | Unit 3 Complete Notes | Storage devices (RAM, ROM, Cache, HDD, SSD, Optical storage), Presentation software (PowerPoint/LibreOffice Impress) |
+| **[Unit4_Notes.md](Unit4_Notes.md)** | Unit 4 Complete Notes | Spreadsheet software (Excel/Calc), Formulas, Functions (SUM, AVERAGE, IF, VLOOKUP, COUNT), Charts and graphs |
 
 ### 📝 Previous Year Question Paper (2024)
 
 | File | Content |
 |------|---------|
-| **previous_year2024.txt** | 2024 Question Paper | Original question paper with all sections |
-| **2024_Answers.md** | Answer Key Part 1 | Section A (all short answers), Section B complete |
-| **2024_Answers_Part2.md** | Answer Key Part 2 | Sections C, D, E with detailed 15-mark answers |
+| **[previous_year2024.txt](previous_year2024.txt)** | 2024 Question Paper | Original question paper with all sections |
+| **[2024_Answers.md](2024_Answers.md)** | Answer Key Part 1 | Section A (all short answers), Section B complete |
+| **[2024_Answers_Part2.md](2024_Answers_Part2.md)** | Answer Key Part 2 | Sections C, D, E with detailed 15-mark answers |
 
 ### 🔮 Predicted Question Paper (2025)
 
 | File | Content |
 |------|---------|
-| **Predicted_QP_2025.md** | Question Paper + Answers Part 1 | Complete predicted question paper, Section A & B answers with detailed diagrams |
-| **Predicted_QP_2025_Answers_Part2.md** | Answers Part 2 | Section C & D answers (Viruses, Printers, Storage devices, Presentations) |
-| **Predicted_QP_2025_Answers_Part3_Final.md** | Answers Part 3 (Final) | Section D & E complete (Presentations, Spreadsheets, Internet) |
+| **[Predicted_QP_2025.md](Predicted_QP_2025.md)** | Question Paper + Answers Part 1 | Complete predicted question paper, Section A & B answers with detailed diagrams |
+| **[Predicted_QP_2025_Answers_Part2.md](Predicted_QP_2025_Answers_Part2.md)** | Answers Part 2 | Section C & D answers (Viruses, Printers, Storage devices, Presentations) |
+| **[Predicted_QP_2025_Answers_Part3_Final.md](Predicted_QP_2025_Answers_Part3_Final.md)** | Answers Part 3 (Final) | Section D & E complete (Presentations, Spreadsheets, Internet) |
 
 ### 📋 Syllabus
 
 | File | Content |
 |------|---------|
-| **syllabus.txt** | Complete Syllabus | All 4 units with detailed topics |
+| **[syllabus.txt](syllabus.txt)** | Complete Syllabus | All 4 units with detailed topics |
 
 ---
 
@@ -344,22 +344,54 @@ Based on syllabus coverage and previous patterns:
 
 ## 📖 How to Use This Repository
 
-1. **Start with Unit Notes** (Day 1-2)
-   - Read all 4 unit files thoroughly
-   - Make your own short notes of key points
-   - Practice drawing diagrams
+### 🎯 Quick Navigation
 
-2. **Practice Previous Year** (Day 2)
-   - Attempt 2024 question paper (timed - 3 hours)
-   - Check answers from answer key files
+**Choose your study path:**
+
+#### 📚 Want to study theory? → [Start with Unit 1 Notes](Unit1_Notes.md)
+- **Unit 1:** [Computer Fundamentals & Input Devices](Unit1_Notes.md)
+- **Unit 2:** [Internet, Viruses & Output Devices](Unit2_Notes.md)
+- **Unit 3:** [Storage & Presentations](Unit3_Notes.md)
+- **Unit 4:** [Spreadsheets & Functions](Unit4_Notes.md)
+
+#### 📝 Want to practice? → [2024 Question Paper](previous_year2024.txt)
+- **Questions:** [2024 Paper](previous_year2024.txt)
+- **Answers Part 1:** [Sections A & B](2024_Answers.md)
+- **Answers Part 2:** [Sections C, D & E](2024_Answers_Part2.md)
+
+#### 🔮 Want to prepare for exam? → [2025 Predicted Paper](Predicted_QP_2025.md)
+- **Question Paper:** [Full Predicted QP 2025](Predicted_QP_2025.md)
+- **Answers Part 1:** [Sections A & B](Predicted_QP_2025.md)
+- **Answers Part 2:** [Sections C & D](Predicted_QP_2025_Answers_Part2.md)
+- **Answers Part 3:** [Sections D & E (Final)](Predicted_QP_2025_Answers_Part3_Final.md)
+
+#### 📋 Want to see syllabus? → [View Syllabus](syllabus.txt)
+
+---
+
+### 📅 Study Plan (Day-wise with links)
+
+1. **Day 1 (December 7) - Theory & Concepts** ✅
+   - Read [Unit 1 Notes](Unit1_Notes.md) & [Unit 2 Notes](Unit2_Notes.md)
+   - Understand computer generations
+   - Learn input/output devices working
+   - Study virus types and antivirus
+
+2. **Day 2 (December 8) - Technical Topics**
+   - Read [Unit 3 Notes](Unit3_Notes.md) & [Unit 4 Notes](Unit4_Notes.md)
+   - 💾 Understand storage devices (HDD vs SSD)
+   - 📊 **Practice spreadsheet functions** (important!)
+   - 🎨 Learn presentation creation steps
+   - ✍️ Practice drawing diagrams
+
+3. **Day 3 (December 9) - Practice & Revision**
+   - Solve [2024 Question Paper](previous_year2024.txt) (timed - 3 hours)
+   - Check with [2024 Answers Part 1](2024_Answers.md) and [Part 2](2024_Answers_Part2.md)
+   - Review [Predicted 2025 Questions](Predicted_QP_2025.md)
+   - Focus on high-probability topics
    - Identify weak areas
 
-3. **Review Predicted Paper** (Day 3)
-   - Read all predicted questions
-   - Go through detailed answers
-   - Focus on high-probability topics
-
-4. **Quick Revision** (Exam morning)
+4. **Exam Morning (December 10)** 🎓
    - Use this README for quick points
    - Review function syntax
    - Practice diagram labels
