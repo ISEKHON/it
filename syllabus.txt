@@ -4,10 +4,6 @@ Computer as a system, basic concepts, functional units and their inter relation.
 • Batch oriented / on-line / real time applications.
 • Application of computers.
 Interacting with the Computer
-
-
-                                     5
-
 Input Devices: Keyboard, mouse, light pen, touch screens, Bar Code reader, joystick, source data
 automation, (MICR, OMR, OCR), screen assisted data entry: portable / handheld terminals for data
 collection.
