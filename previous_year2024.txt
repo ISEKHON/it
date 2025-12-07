@@ -1,0 +1,63 @@
+                                 Sr. No. 1111
+
+                         B.C.A. – Sem. I
+BCA – 112 : INTRODUCTION TO COMPUTERS AND 
+            INFORMATION TECHNOLOGY
+                           (K / 24)
+
+Time Allowed — 3 Hours                    [Maximum Marks — 75]
+
+Note:- Attempt Four questions from section B, C, D and E
+       by selecting One question from each section and
+       from section A attempt any Six questions.
+
+                           Section - A
+1. a) What is the use of RAM?
+   b) Write a note on Virus.
+   c) What is the need of Computer? How to configure 
+      an Internet on it?
+   d) What is the difference between OMR and OCR?
+   e) What is the role of cut, copy and paste in word 
+      processing?
+   f) Is there any role of Software in the computer?
+   g) Write the steps to install Libra office.
+   h) Write the limitations of Optical Storage devices.
+                       (6×2.5=15)
+
+                           Section - B
+2. Explain the various parts of computers with its 
+   functional diagram.                                           (15)
+
+3. Name any five input devices and explain any two out of 
+   these with its diagram.                                       (15)
+
+                           Section - C
+4. Explain the working of Printer and Plotter with its 
+   diagram.                                                      (15)
+
+5. What is the use of Internet? How is it different from 
+   Intranet and Extranet? Explain the working of Internet 
+   along with its any three applications.                       (2,3,10)
+
+                           Section - D
+6. What is the difference between Primary and Secondary 
+   Memory? Explain the various types of primary 
+   memories.                                                     (4,11)
+
+7. How the Open Source Presentation Software is different 
+   from Microsoft PowerPoint? What are the limitations of 
+   open source software? Explain the procedure to prepare 
+   a presentation, insert and delete slides from it, insert 
+   audio and video and saving of presentation.                  (3,3,9)
+
+                           Section - E
+8. What is the use of Google Docs? How it is different 
+   from Microsoft Word Documents? Explain the complete 
+   procedure to use the Google Docs.                            (2,4,9)
+
+9. Explain the followings:
+   a) Any seven functions of spread sheet with some 
+      example                                                   (7)
+   b) Insert graph and formulas in spread sheet.               (8)
+
+                             *****
